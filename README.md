@@ -1,11 +1,13 @@
-# personal scrapper on the Internet
-scrapper and yt-dl.
----
+# Tarantulas
+## Overview
+Extenable Web Scrapper with plug-and-use framework
 Requirements:
-* Python3
-* pip3
+* Python 3+
 
----
-QuickStart:
-* activate with `pip3 install -r requirements.txt` or with venv
-* `python3 main.py`
+## QuickStart:
+- With `pipenv`:
+  * `pipenv install`
+  * `pipenv shell`
+- With `venv`:
+  * activate with `pip install -r requirements.txt`
+  * `python main.py`
