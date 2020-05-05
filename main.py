@@ -1,4 +1,4 @@
-from Yt import YouTubeDL, os
+from YoutubeDL import YouTubeDL, os
 import shutil
 
 if __name__ == "__main__":
