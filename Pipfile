@@ -6,8 +6,10 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-pytube3 = "==9.6.4"
-typing-extensions = "==3.7.4.2"
+pytube3 = "*"
+typing-extensions = "*"
+requests = "*"
+bs4 = "*"
 
 [requires]
 python_version = "3.7"

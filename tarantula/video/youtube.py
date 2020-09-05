@@ -4,7 +4,7 @@ from datetime import datetime
 import logging
 import os
 
-class YouTubeDL():  
+class YouTube(object):  
     
     # Scrap video or by videolist
     def __init__(self, input_file: str, options: Optional[Dict[str, bool]] = {"vinlist": True}):
