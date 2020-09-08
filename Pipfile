@@ -10,6 +10,7 @@ pytube3 = "*"
 typing-extensions = "*"
 requests = "*"
 bs4 = "*"
+scrapy = "*"
 
 [requires]
 python_version = "3.7"
