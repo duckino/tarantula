@@ -1,4 +1,4 @@
-# Tarantulas
+# Tara
 ### Overview
 An extendable async web-scrapping framework. automation with learning
 * Get trending information on social media with specified metrics

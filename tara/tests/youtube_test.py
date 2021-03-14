@@ -1,4 +1,4 @@
-# from tarantula.video.youtube import YouTube
+# from tara.video.youtube import YouTube
 # import os
 # import shutil
 

@@ -1,14 +1,14 @@
 from setuptools import setup
 
 setup(
-   name='tarantula',
+   name='tara',
 
    version='0.0.1',
 
    author='duckino',
-   url = 'https://github.com/duckino/taratula',
+   url = 'https://github.com/duckino/tara',
    license = 'MIT',
-   packages=['tarantula'],
+   packages=['tara'],
 
    description = 'Web Scrapper with Automation and Learning',
    long_description=open('README.md').read(),
